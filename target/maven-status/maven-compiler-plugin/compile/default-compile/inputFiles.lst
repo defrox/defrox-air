@@ -1,0 +1,9 @@
+/home/christian/Proyectos/defrox-air/src/main/java/com/defrox/air/seats/domain/input/AbstractGroup.java
+/home/christian/Proyectos/defrox-air/src/main/java/com/defrox/air/seats/ConsoleApplication.java
+/home/christian/Proyectos/defrox-air/src/main/java/com/defrox/air/seats/jobs/CheckAllPossibileSeatArrangementsJob.java
+/home/christian/Proyectos/defrox-air/src/main/java/com/defrox/air/seats/domain/input/InputData.java
+/home/christian/Proyectos/defrox-air/src/main/java/com/defrox/air/seats/domain/output/SeatsRow.java
+/home/christian/Proyectos/defrox-air/src/main/java/com/defrox/air/seats/domain/output/SeatsArrangement.java
+/home/christian/Proyectos/defrox-air/src/main/java/com/defrox/air/seats/domain/input/Passenger.java
+/home/christian/Proyectos/defrox-air/src/main/java/com/defrox/air/seats/domain/input/Group.java
+/home/christian/Proyectos/defrox-air/src/main/java/com/defrox/air/seats/jobs/SimpleAssignSeatsJob.java
