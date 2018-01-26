@@ -37,12 +37,12 @@ public class ConsoleApplication {
             InputData data = InputData.of(bufferedReader);
             
             Callable<SeatsArrangement> job;
-            if (args.length > 1 && args[1].equalsIgnoreCase("-all")) {
-                job = CheckAllPossibileSeatArrangementsJob.builder()
+            if (args.length > 1 && args[1].equalsIgnoreCase("-simple")) {
+                job = SimpleAssignSeatsJob.builder()
                         .inputData(data)
                         .build();
             } else {
-                job = SimpleAssignSeatsJob.builder()
+                job = CheckAllPossibileSeatArrangementsJob.builder()
                         .inputData(data)
                         .build();
             }
